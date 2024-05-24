@@ -1,6 +1,5 @@
 
 public class deplacement {
-
 }
 class ErrDeplacement extends Exception{
 	private int y;
